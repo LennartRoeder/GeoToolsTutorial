@@ -10,12 +10,9 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.11" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
     <orderEntry type="library" name="Maven: org.geotools:gt-shapefile:14.0" level="project" />
     <orderEntry type="library" name="Maven: org.geotools:gt-data:14.0" level="project" />
     <orderEntry type="library" name="Maven: org.geotools:gt-main:14.0" level="project" />
-    <orderEntry type="library" name="Maven: org.geotools:gt-api:14.0" level="project" />
     <orderEntry type="library" name="Maven: com.vividsolutions:jts:1.13" level="project" />
     <orderEntry type="library" name="Maven: org.jdom:jdom:1.1.3" level="project" />
     <orderEntry type="library" name="Maven: javax.media:jai_core:1.1.3" level="project" />
@@ -73,5 +70,11 @@
     <orderEntry type="library" name="Maven: com.miglayout:miglayout:swing:3.7" level="project" />
     <orderEntry type="library" name="Maven: org.geotools:gt-epsg-hsql:14.0" level="project" />
     <orderEntry type="library" name="Maven: org.hsqldb:hsqldb:2.3.0" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools.jdbc:gt-jdbc-postgis:14.0" level="project" />
+    <orderEntry type="library" name="Maven: org.postgresql:postgresql:9.4-1201-jdbc41" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-jdbc:14.0" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-api:14.0" level="project" />
+    <orderEntry type="library" name="Maven: commons-dbcp:commons-dbcp:1.4" level="project" />
+    <orderEntry type="library" name="Maven: commons-collections:commons-collections:3.1" level="project" />
   </component>
 </module>
